@@ -13,4 +13,4 @@ O objetivo da análise é fazer contraste dos modelos:
  **Alunos:**
 
 - [Adriano Ribeiro](https://github.com/adrianora)
-- [João Henrique](https://github.com/Joaohdss)
+- [João Henrique](https://github.com/joaohenriquedss)
